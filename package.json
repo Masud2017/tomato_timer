@@ -1,0 +1,20 @@
+{
+  "name": "tomato_timer",
+  "version": "1.0.0",
+  "description": "A project for pomodoro timer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "Pomodoro",
+    "timer",
+    "productivity"
+  ],
+  "author": "Md Masud karim",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
